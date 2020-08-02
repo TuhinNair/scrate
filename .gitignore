@@ -1,3 +1,4 @@
 html_job_postings
 *.csv
 .ipynb_checkpoints
+*.pk
